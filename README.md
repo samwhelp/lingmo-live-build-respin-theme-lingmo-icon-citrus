@@ -88,6 +88,21 @@ or run
 | yeyushengfan258 / [Citrus-icon-theme](https://github.com/yeyushengfan258/Citrus-icon-theme) |
 
 
+> Adjust: Citrus-red-dark / [index.theme](https://github.com/samwhelp/lingmo-live-build-respin-theme-lingmo-icon-citrus/blob/main/asset/overlay/usr/share/icons/Citrus-red-dark/index.theme#L4)
+
+``` ini
+Inherits=Numix-Circle,Numix,Papirus-Dark,lingmo-dark,Crule-dark,Adwaita,hicolor
+```
+
+> Adjust: Citrus-red / [index.theme](https://github.com/samwhelp/lingmo-live-build-respin-theme-lingmo-icon-citrus/blob/main/asset/overlay/usr/share/icons/Citrus-red/index.theme#L4)
+
+``` ini
+Inherits=Numix-Circle-Light,Numix-Light,Papirus-Light,lingmo-light,Crule,Adwaita,hicolor
+```
+
+
+
+
 > Search: [theme](https://github.com/orgs/LingmoOS/repositories?q=theme)
 
 > Search: [plugin](https://github.com/orgs/LingmoOS/repositories?q=plugin)
