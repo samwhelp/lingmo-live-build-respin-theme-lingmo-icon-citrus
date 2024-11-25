@@ -81,6 +81,10 @@ or run
 
 ## Theme Source
 
+> Search: [theme](https://github.com/orgs/LingmoOS/repositories?q=theme)
+
+> Search: [plugin](https://github.com/orgs/LingmoOS/repositories?q=plugin)
+
 | Theme Source |
 | ------------ |
 | Lingmo OS / [lingmo-qt-plugins](https://github.com/LingmoOS/lingmo-qt-plugins) |
@@ -99,13 +103,6 @@ Inherits=Numix-Circle,Numix,Papirus-Dark,lingmo-dark,Crule-dark,Adwaita,hicolor
 ``` ini
 Inherits=Numix-Circle-Light,Numix-Light,Papirus-Light,lingmo-light,Crule,Adwaita,hicolor
 ```
-
-
-
-
-> Search: [theme](https://github.com/orgs/LingmoOS/repositories?q=theme)
-
-> Search: [plugin](https://github.com/orgs/LingmoOS/repositories?q=plugin)
 
 
 
